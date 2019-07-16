@@ -11,7 +11,7 @@ import java.util.zip.GZIPOutputStream;
 public class FileTests {
 
   @Test
-  public void createFile() throws IOException {
+  public void createNewFile() throws IOException {
     // Using createNewFile() method
     // This method creates an empty file,
     // if the file doesn't exists at the specified location and returns true.
