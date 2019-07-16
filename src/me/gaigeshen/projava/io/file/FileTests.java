@@ -1,4 +1,4 @@
-package me.gaigeshen.projava.io;
+package me.gaigeshen.projava.io.file;
 
 import org.junit.Test;
 
